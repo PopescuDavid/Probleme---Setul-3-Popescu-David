@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\Probleme-Setul 3 Popescu David\Problema_21\Problema_21\obj\Debug\Problema_21.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Probleme-Setul 3 Popescu David\Problema_21\Problema_21\obj\Debug\Problema_21.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Probleme-Setul 3 Popescu David\Problema_21\Problema_21\bin\Debug\Problema_21.exe.config
+C:\Users\David\source\repos\Probleme-Setul 3 Popescu David\Problema_21\Problema_21\bin\Debug\Problema_21.exe
+C:\Users\David\source\repos\Probleme-Setul 3 Popescu David\Problema_21\Problema_21\bin\Debug\Problema_21.pdb
+C:\Users\David\source\repos\Probleme-Setul 3 Popescu David\Problema_21\Problema_21\obj\Debug\Problema_21.exe
+C:\Users\David\source\repos\Probleme-Setul 3 Popescu David\Problema_21\Problema_21\obj\Debug\Problema_21.pdb

@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\FP2021\Problema_18\bin\Debug\Problema_18.exe.config
+C:\Users\David\source\repos\FP2021\Problema_18\bin\Debug\Problema_18.exe
+C:\Users\David\source\repos\FP2021\Problema_18\bin\Debug\Problema_18.pdb
+C:\Users\David\source\repos\FP2021\Problema_18\obj\Debug\Problema_18.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\FP2021\Problema_18\obj\Debug\Problema_18.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\FP2021\Problema_18\obj\Debug\Problema_18.exe
+C:\Users\David\source\repos\FP2021\Problema_18\obj\Debug\Problema_18.pdb

@@ -1,0 +1,6 @@
+C:\Users\David\source\repos\Probleme-Setul 3 Popescu David\Problema_12\bin\Debug\Problema_12.exe.config
+C:\Users\David\source\repos\Probleme-Setul 3 Popescu David\Problema_12\bin\Debug\Problema_12.exe
+C:\Users\David\source\repos\Probleme-Setul 3 Popescu David\Problema_12\bin\Debug\Problema_12.pdb
+C:\Users\David\source\repos\Probleme-Setul 3 Popescu David\Problema_12\obj\Debug\Problema_12.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Probleme-Setul 3 Popescu David\Problema_12\obj\Debug\Problema_12.exe
+C:\Users\David\source\repos\Probleme-Setul 3 Popescu David\Problema_12\obj\Debug\Problema_12.pdb
