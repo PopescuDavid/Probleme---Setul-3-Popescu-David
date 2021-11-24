@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\Probleme-Setul 3 Popescu David\Problema_23\Problema_23\bin\Debug\Problema_23.exe.config
+C:\Users\David\source\repos\Probleme-Setul 3 Popescu David\Problema_23\Problema_23\bin\Debug\Problema_23.exe
+C:\Users\David\source\repos\Probleme-Setul 3 Popescu David\Problema_23\Problema_23\bin\Debug\Problema_23.pdb
+C:\Users\David\source\repos\Probleme-Setul 3 Popescu David\Problema_23\Problema_23\obj\Debug\Problema_23.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Probleme-Setul 3 Popescu David\Problema_23\Problema_23\obj\Debug\Problema_23.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Probleme-Setul 3 Popescu David\Problema_23\Problema_23\obj\Debug\Problema_23.exe
+C:\Users\David\source\repos\Probleme-Setul 3 Popescu David\Problema_23\Problema_23\obj\Debug\Problema_23.pdb

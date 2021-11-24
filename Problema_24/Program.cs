@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Problema_22
+namespace Problema_24
 {
     class Program
     {
@@ -24,26 +24,28 @@ namespace Problema_22
             for (int i = 0; i < m; i++)
                 b[i] = int.Parse(Console.ReadLine());
             Console.Write("Elementele intersectie sunt: ");
-            for(int i=0;i<n;i++)
+            for (int i = 0; i < n; i++)
             {
-                for(int j=0;j<m;j++)
+                for (int j = 0; j < m; j++)
                 {
-                    if(a[i]==b[j])
-                        Console.Write(a[i]+" ");
+                    if (a[i] == b[j])
+                    {
+                        a[i] = 1;
+                        Console.Write(1+" ");
+                    }
+                    else
+                    {
+                        a[i] = 0;
+                        Console.Write(0+" ");
+                    }
                 }
             }
             Console.WriteLine();
             Console.Write("Elementele reuniunii sunt: ");
             for (int i = 0; i < n; i++)
-            {
-                int aux = a[i];
-                Console.Write(a[i]+" ");
-                for (int j = 0; j < m; j++)
-                {
-                    if(a[i]!=b[j])
-                        Console.Write(b[j]+" ");
-                }
-            }
+                Console.Write(a[i] + " ");
+            for (int j = 0; j < m; j++)
+                Console.Write(b[j] + " ");
             Console.WriteLine();
         }
     }
